@@ -1,5 +1,3 @@
-# michelinecavalcanti-michelinecavalcanti
-
 # 👋 Olá, eu sou Micheline Cavalcanti
 
 📊 Analista de Dados com foco em transformar dados em decisões.
